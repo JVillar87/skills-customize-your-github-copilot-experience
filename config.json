@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-python-programs",
+      "title": "Testing Python Programs with pytest",
+      "description": "Write automated tests with pytest, cover edge cases, and verify expected errors",
+      "path": "assignments/testing-python-programs",
+      "dueDate": "2026-10-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
